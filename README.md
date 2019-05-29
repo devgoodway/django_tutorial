@@ -1,2 +1,1 @@
-# django_tutorial
-django tutorial 작성합니다.
+# 첫 번째 장고 앱 작성하기 실습
